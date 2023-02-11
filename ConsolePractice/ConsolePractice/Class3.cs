@@ -8,5 +8,6 @@ namespace ConsolePractice
 {
     internal class Class3
     {
+        //comment
     }
 }
