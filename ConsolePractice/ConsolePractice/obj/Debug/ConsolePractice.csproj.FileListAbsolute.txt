@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe.config
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.pdb
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.exe
+C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.pdb
