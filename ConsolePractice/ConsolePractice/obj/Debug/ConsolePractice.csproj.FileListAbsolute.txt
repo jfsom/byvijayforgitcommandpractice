@@ -6,3 +6,11 @@ C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePr
 C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.exe
 C:\Users\Lenovo\source\repos\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.pdb
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe.config
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.exe
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\bin\Debug\ConsolePractice.pdb
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.AssemblyReference.cache
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.SuggestedBindingRedirects.cache
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.csproj.CoreCompileInputs.cache
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.exe
+C:\gitCommands\byvijayforgitcommandpractice\ConsolePractice\ConsolePractice\obj\Debug\ConsolePractice.pdb
