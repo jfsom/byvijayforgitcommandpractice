@@ -12,6 +12,8 @@ namespace ConsolePractice
         {
             Console.WriteLine("Hi");
             //comment
+            //New check in
+            //git stages and unstaged
         }
     }
 }
